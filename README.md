@@ -21,3 +21,5 @@
 * **Real-time Data Integration:** Connect to the Yahoo Finance API (`yfinance`) to monitor live stock or crypto assets.
 * **Automated Alerting:** Integrate a backend script to send Email/Slack notifications when a "Black Swan" is detected.
 * **Predictive Analysis:** Implement Machine Learning models to classify if an outlier is a one-time error or a structural trend change.
+
+Data Wrangling: Applied column flattening to handle yfinance MultiIndex structures, ensuring compatibility with Matplotlib plotting functions.

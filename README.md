@@ -23,3 +23,14 @@
 * **Predictive Analysis:** Implement Machine Learning models to classify if an outlier is a one-time error or a structural trend change.
 
 Data Wrangling: Applied column flattening to handle yfinance MultiIndex structures, ensuring compatibility with Matplotlib plotting functions.
+
+## 🇬🇹 Deep Dive: Guatemalan Agricultural Risk
+This project goes beyond global stocks to analyze the backbone of Guatemala's economy: **Coffee and Sugar**.
+
+### Climate Correlation Analysis
+By mapping historical climate events (El Niño, Tropical Storm Sara, and 2025 Heat Waves) against market prices, I identified:
+* **Asymmetric Risk:** Coffee and Sugar respond differently to climate anomalies due to their distinct harvest cycles (Zafra vs. Coffee picking season).
+* **Price Volatility:** Heavy rains from Tropical Storm Sara acted as a localized "Black Swan," disrupting logistics and causing price fluctuations in late 2024.
+* **Resilience Modeling:** This framework allows exporters to visualize which periods of the year are most vulnerable to extreme weather events.
+
+---
